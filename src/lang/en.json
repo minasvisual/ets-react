@@ -1,0 +1,70 @@
+{
+    "discover": "Discover",
+    "whatsnew": "What's New",
+    "genres": "Genres",
+    "artist": "Artist",
+    "event": "Artist",
+    "album": "Album",
+    "contact": "Contact",
+    "playerPaused": "Player paused",
+    "flashMsg1": "Update required",
+    "flashMsg2": "To play the radio is required update you browser or ",
+    "mostLiked": "Most liked",
+  
+    "playingNow": "Playing Now",
+    "lastPlayed": "Last played",
+    "nextEvents": "Next events",
+    "latestAlbums": "Latest albums released",
+    "lastBlogs": "Latest Editorials",
+  
+    "all": "All",
+    "lastUpdated": "Last updated",
+    "find": "Find",
+    "search": "Search",
+    "close": "Close",
+    "back": "Back",
+  
+    "artists": "Artists",
+    "similarArtists": "Similar artists",
+    "artistNextConcerts": "Artist next concerts",
+    "noEventsArtist": "No events for this artist",
+    "likeSong": "Like this song?",
+  
+    "artistDiscography":"Artist discography",
+    "noDiscographyArtist":"No biography registered",
+  
+    "chat": "Chat",
+    "send": "Send",
+    "cancel": "Cancel",
+    "message": "Message",
+  
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "contactUs": "Contact us",
+  
+    "moviesTitle":"Cinema and Entertainment",
+    "movies":"Cinema",
+    "movie": "Movie",
+    "title": "Title",
+  
+    "newsTitle": "Editorials & News",
+    "news": "Editorials",
+    "by": "By",
+    "more": "Read more",
+  
+    "aboutus": "24 hours radio and chat:<br> darkwave * goth * ethereal * dreampop * synth * minimal * cold * EBM * perky * shoegaze * etc * plus daily special radio shows!",
+    "ourpartners": "Parthner links",
+    "register": "Sign me up",
+    "followus": "Follow us",
+    "location": "Location",
+  
+    "add_favorites": "Add to favorites",
+    "share": "Share",
+    "login": "Login",
+    "to": "to",
+    "language_selection": "Select language",
+    "login_to_start_sharing": "Log in to start share your music!",
+  
+    "cookies": "We want to make our website more user-friendly and continuously improve it. If you continue to use the website, you agree to the use of cookies."
+}

@@ -1,0 +1,70 @@
+{
+    "discover": "Descubrir",
+    "whatsnew": "Novedades",
+    "genres": "Géneros",
+    "artist": "Artista",
+    "event": "Evento",
+    "album": "Album",
+    "contact": "Contacto",
+    "playerPaused": "Player pausado",
+    "flashMsg1": "Actualización necesaria",
+    "flashMsg2": "Para tocar la radio será necesario actualizar su navegador o su ",
+    "mostLiked": "Más gustado",
+  
+    "playingNow": "Reproduciendo",
+    "lastPlayed": "Últimas reproduções",
+    "nextEvents": "Próximos eventos",
+    "latestAlbums": "Últimos álbumes lanzados",
+    "lastBlogs": "Últimos Editoriales",
+  
+    "all": "Todo",
+    "lastUpdated": "Últimas actualizaciones",
+    "find": "Buscar",
+    "search": "Buscar",
+    "close": "Cerrar",
+    "back": "Volver",
+  
+    "artists": "Artistas",
+    "similarArtists": "Artistas similares",
+    "artistNextConcerts": "Próximos conciertos del Artista",
+    "noEventsArtist": "No hay eventos para este artista",
+    "likeSong": "¿Te gusta esta canción?",
+  
+    "artistDiscography":"Discografia de artista",
+    "noDiscographyArtist":"No hay biografía registrada",
+  
+    "chat": "Chat",
+    "send": "Enviar",
+    "cancel": "Cancelar",
+    "message": "Mensaje",
+  
+    "name": "Nombre",
+    "email": "Email",
+    "subject": "asunto",
+    "contactUs": "Entre en contacto",
+  
+    "moviesTitle":"Películas y entretenimiento",
+    "movies":"Cinema",
+    "movie": "Película",
+    "title": "Título",
+  
+    "newsTitle": "Editoriales y noticias",
+    "news": "Editoriales",
+    "by": "Por",
+    "more": "Sepa mas",
+  
+    "aboutus": "Radio comunitaria, gerenciada por fans da Dark Music. <br/>rádio 24 horas: darkwave * goth * ethereal * dreampop * synth * minimal * cold * EBM * perky * shoegaze * etc * também shows especiais!",
+    "ourpartners": "Links de socios",
+    "register": "Inscríbeme",
+    "followus": "Redes Sociales",
+    "location": "Ubicación",
+  
+    "add_favorites": "Añadir favorita",
+    "share": "Compartir",
+    "login": "Iniciar sesión",
+    "to": "para",
+    "language_selection": "Seleccionar idioma",
+    "login_to_start_sharing": "¡Autentícate para compartir tu música!",
+  
+    "cookies": "Queremos que nuestro sitio web sea más fácil de usar y lo mejoremos continuamente. Si continúa utilizando el sitio web, acepta el uso de cookies."
+}
