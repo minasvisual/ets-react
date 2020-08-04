@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react'
 import { BrowserRouter as Router, Route , Switch, withRouter, useHistory } from 'react-router-dom'
 
-import { translate, setLanguage, getLanguage, setDefaultTranslations, setDefaultLanguage } from 'react-multi-lang'
+import { translate, setLanguage, setDefaultTranslations, setDefaultLanguage } from 'react-multi-lang'
 import pt from './lang/pt.json'
 import en from './lang/en.json'
 import es from './lang/es.json'
